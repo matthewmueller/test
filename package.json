@@ -2,6 +2,6 @@
   "name": "test",
   "version": "0.0.1",
   "dependencies": {
-
+    "cheerio": "~0.11.0"
   }
 }
